@@ -1,2 +1,2 @@
 # lego-superheroes
-Prácticando animaciones y maquetación con CSS y JS
+Prácticando animaciones y maquetación con CSS 🚀
