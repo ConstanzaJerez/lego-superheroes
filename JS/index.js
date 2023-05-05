@@ -1,8 +1,9 @@
 const modal = document.querySelector('.modal');
+
 const buttonSpider = document.querySelector('#button-spider');
 const buttonRobin = document.querySelector('#button-robin');
 const buttonBatman = document.querySelector('#button-batman');
-const closeButton = document.querySelector('.modal-content-close');/*img*/
+const closeButton = document.querySelector('.modal-content-close');/*img de x*/
 
 
 buttonSpider.addEventListener('click', () => {
