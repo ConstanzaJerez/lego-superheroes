@@ -1,6 +1,4 @@
-# legosuperheroes
-
-Practicando animaciones con CSS
+#Practicando animaciones con CSS
 
 [Lego Superheroes]( https://constanzajerez.github.io/legosuperheroes/)
 
