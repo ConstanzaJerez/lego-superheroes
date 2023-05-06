@@ -5,7 +5,7 @@
 [![lego.jpg](https://i.postimg.cc/SKGFKXJR/lego.jpg)](https://postimg.cc/Ff1nWHbX)
 
 
-### Técnologías 
+### Tecnologías 
 * HTML
 * CSS
 * Javascript
