@@ -1,2 +1,11 @@
-# lego-superheroes
-Prácticando animaciones y maquetación con CSS y JS
+# Practicando animaciones con CSS
+
+[Lego Superheroes]( https://constanzajerez.github.io/legosuperheroes/)
+
+[![lego.jpg](https://i.postimg.cc/SKGFKXJR/lego.jpg)](https://postimg.cc/Ff1nWHbX)
+
+
+### Tecnologías 
+* HTML
+* CSS
+* Javascript
